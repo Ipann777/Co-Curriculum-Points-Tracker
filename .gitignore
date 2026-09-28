@@ -3,3 +3,16 @@
    Debug/
    Release/
    *.user
+   main/.vs/
+main/.vs/main.slnx/FileContentIndex/44199238-650b-40e7-ab4d-5cdcd7953df7.vsidx
+/main/.vs/main.slnx/FileContentIndex
+*.db-shm
+/main
+/main/.vs
+/main/.vs/main.slnx
+/main/.vs/main.slnx/v18
+*.vsidx
+*.db
+main/.vs/main.slnx/v18/Browse.VC.db
+main/.vs/main.slnx/FileContentIndex/4ed9147a-068f-4413-9cb1-e38b26c84f29.vsidx
+**/.vs/
